@@ -47,12 +47,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0016-3sum-closest) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0037-sudoku-solver](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0037-sudoku-solver) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
 | ------- |
@@ -83,4 +85,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+## Tree
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
