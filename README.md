@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0037-sudoku-solver](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0037-sudoku-solver) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 ## Backtracking
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
