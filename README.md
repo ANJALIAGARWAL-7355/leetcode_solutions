@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0118-pascals-triangle](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0994-rotting-oranges](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0994-rotting-oranges) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Trie
 |  |
 | ------- |
@@ -128,8 +131,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0020-valid-parentheses) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
