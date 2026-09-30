@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0018-4sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0118-pascals-triangle](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0118-pascals-triangle) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0031-next-permutation) |
 ## Greedy
