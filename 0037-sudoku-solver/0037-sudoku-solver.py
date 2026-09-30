@@ -1,50 +1,79 @@
-class Solution:
-    def solveSudoku(self, board: List[List[str]]) -> None:
-        """
-        Do not return anything, modify board in-place instead.
-        """
+class Solution(object):
+    def solveSudoku(self, board):
+
         rows = [set() for _ in range(9)]
         cols = [set() for _ in range(9)]
         boxes = [set() for _ in range(9)]
-        empties = []
 
-        # Initialize sets with existing numbers
+        # Store existing numbers
         for r in range(9):
             for c in range(9):
-                val = board[r][c]
-                if val == '.':
-                    empties.append((r, c))
-                else:
-                    rows[r].add(val)
-                    cols[c].add(val)
-                    boxes[(r // 3) * 3 + c // 3].add(val)
+                if board[r][c] != '.':
+                    num = board[r][c]
+                    rows[r].add(num)
+                    cols[c].add(num)
+                    boxes[(r // 3) * 3 + (c // 3)].add(num)
 
-        def backtrack(idx):
-            if idx == len(empties):
+        def backtrack():
+
+            # Find empty cell with minimum choices
+            best_r = -1
+            best_c = -1
+            best_options = None
+
+            for r in range(9):
+                for c in range(9):
+
+                    if board[r][c] == '.':
+                        box = (r // 3) * 3 + (c // 3)
+
+                        options = []
+
+                        for num in '123456789':
+                            if (num not in rows[r] and
+                                num not in cols[c] and
+                                num not in boxes[box]):
+                                options.append(num)
+
+                        # No possible number → backtrack
+                        if not options:
+                            return False
+
+                        # Choose cell with fewest options
+                        if best_options is None or len(options) < len(best_options):
+                            best_r = r
+                            best_c = c
+                            best_options = options
+
+                            if len(options) == 1:
+                                break
+
+                if best_options is not None and len(best_options) == 1:
+                    break
+
+            # No empty cells → Sudoku solved
+            if best_options is None:
                 return True
 
-            r, c = empties[idx]
-            b = (r // 3) * 3 + c // 3
+            box = (best_r // 3) * 3 + (best_c // 3)
 
-            for num in "123456789":
-                if num in rows[r] or num in cols[c] or num in boxes[b]:
-                    continue
+            # Try every possible number
+            for num in best_options:
 
-                # place
-                board[r][c] = num
-                rows[r].add(num)
-                cols[c].add(num)
-                boxes[b].add(num)
+                board[best_r][best_c] = num
+                rows[best_r].add(num)
+                cols[best_c].add(num)
+                boxes[box].add(num)
 
-                if backtrack(idx + 1):
+                if backtrack():
                     return True
 
-                # undo
-                board[r][c] = '.'
-                rows[r].remove(num)
-                cols[c].remove(num)
-                boxes[b].remove(num)
+                # Undo
+                board[best_r][best_c] = '.'
+                rows[best_r].remove(num)
+                cols[best_c].remove(num)
+                boxes[box].remove(num)
 
             return False
 
-        backtrack(0)
+        backtrack()
