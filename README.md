@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0048-rotate-image) |
 ## Recursion
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0118-pascals-triangle](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0994-rotting-oranges](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0994-rotting-oranges](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0994-rotting-oranges) |
 ## Algorithm X
 |  |
