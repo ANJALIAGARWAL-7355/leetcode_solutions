@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0994-rotting-oranges](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
 |  |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0053-maximum-subarray) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
