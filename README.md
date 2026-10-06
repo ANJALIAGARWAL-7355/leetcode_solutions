@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0994-rotting-oranges](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0118-pascals-triangle) |
 ## Sorting
 |  |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0543-diameter-of-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
