@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0060-permutation-sequence) |
 ## Recursion
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0060-permutation-sequence) |
 ## Array
 |  |
 | ------- |
