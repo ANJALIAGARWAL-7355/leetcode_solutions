@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0994-rotting-oranges](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## String
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0064-minimum-path-sum](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0994-rotting-oranges](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0994-rotting-oranges) |
 ## Algorithm X
 |  |
