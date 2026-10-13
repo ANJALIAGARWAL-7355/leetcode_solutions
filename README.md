@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0994-rotting-oranges](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0994-rotting-oranges) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
 | ------- |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Hash Table
 |  |
@@ -224,8 +227,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0075-sort-colors) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0062-unique-paths) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
