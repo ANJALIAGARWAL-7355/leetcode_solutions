@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0994-rotting-oranges](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0994-rotting-oranges) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0051-n-queens) |
+| [0090-subsets-ii](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0090-subsets-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/ANJALIAGARWAL-7355/leetcode_solutions/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
